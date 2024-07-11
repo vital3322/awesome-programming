@@ -68,7 +68,10 @@ Focused on:
 
 ### Go GitHub Repositories
 1. [Go в примерах](https://gobyexample.com.ru/) - это практическое введение в Go с использованием примеров реальных программ.
-2. [Repository Name 4](https://github.com/username/repo4) - Description of the repository.
+2. [Awesome Backend Engineer](https://github.com/zhashkevych/awesome-backend) - Структурированный список ресурсов для изучения Backend разработки.
+3. [Go Clean Architecture](https://github.com/zhashkevych/go-clean-architecture) - Uncle Bob’s clean architecture principles.
+4. [REST API Для Создания TODO Списков на Go](https://github.com/zhashkevych/todo-app)
+5. [Creatly LMS [Backend Application]](https://github.com/Creatly/creatly-backend)
 
 ### Go YouTube Videos
 1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
