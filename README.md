@@ -78,7 +78,7 @@ Focused on:
 2. [Video Title 4](https://www.youtube.com/watch?v=example4) - Description of the video.
 
 ### Go Articles
-1. [Medium Post Title 3](https://medium.com/@username/post3) - Description of the post.
+1. [Microservice Architecture](https://microservices.io/) - Patterns.
 2. [Habr Post Title 4](https://habr.com/en/post/4) - Description of the post.
 
 ### Go Courses
