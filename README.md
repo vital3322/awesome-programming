@@ -1,2 +1,130 @@
-# Awesome-Programming
-A collection of useful programming materials including GitHub repositories, YouTube videos, Medium posts, Habr posts, courses, and books. Focused on Python, Go, design patterns, interview questions, and tasks.
+# Awesome Programming
+
+A collection of useful programming materials including:
+
+- GitHub repositories
+- YouTube videos
+- Posts
+- Courses
+- Books
+
+Focused on:
+
+- Python
+- Go
+- Design patterns
+- Interview questions
+
+## Table of Contents
+- [Python](#python)
+  - [GitHub Repositories](#python-github-repositories)
+  - [YouTube Videos](#python-youtube-videos)
+  - [Posts](#python-posts)
+  - [Courses](#python-courses)
+  - [Books](#python-books)
+- [Go](#go)
+  - [GitHub Repositories](#go-github-repositories)
+  - [YouTube Videos](#go-youtube-videos)
+  - [Posts](#go-posts)
+  - [Courses](#go-courses)
+  - [Books](#go-books)
+- [Design Patterns](#design-patterns)
+  - [GitHub Repositories](#design-patterns-github-repositories)
+  - [YouTube Videos](#design-patterns-youtube-videos)
+  - [Posts](#design-patterns-posts)
+  - [Courses](#design-patterns-courses)
+  - [Books](#design-patterns-books)
+- [Interview Questions](#interview-questions)
+  - [GitHub Repositories](#interview-questions-github-repositories)
+  - [YouTube Videos](#interview-questions-youtube-videos)
+  - [Posts](#interview-questions-posts)
+  - [Courses](#interview-questions-courses)
+  - [Books](#interview-questions-books)
+
+## Python
+
+### Python GitHub Repositories
+1. [Repository Name 1](https://github.com/username/repo1) - Description of the repository.
+2. [Repository Name 2](https://github.com/username/repo2) - Description of the repository.
+
+### Python YouTube Videos
+1. [Video Title 1](https://www.youtube.com/watch?v=example1) - Description of the video.
+2. [Video Title 2](https://www.youtube.com/watch?v=example2) - Description of the video.
+
+### Python Posts
+1. [Medium Post Title 1](https://medium.com/@username/post1) - Description of the post.
+2. [Habr Post Title 2](https://habr.com/en/post/2) - Description of the post.
+
+### Python Courses
+1. [Course Title 1](https://www.udemy.com/course/example1) - Description of the course.
+2. [Course Title 2](https://www.coursera.org/learn/example2) - Description of the course.
+
+### Python Books
+1. [Book Title 1](https://www.amazon.com/dp/example1) - Description of the book.
+2. [Book Title 2](https://www.amazon.com/dp/example2) - Description of the book.
+
+## Go
+
+### Go GitHub Repositories
+1. [Repository Name 3](https://github.com/username/repo3) - Description of the repository.
+2. [Repository Name 4](https://github.com/username/repo4) - Description of the repository.
+
+### Go YouTube Videos
+1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
+2. [Video Title 4](https://www.youtube.com/watch?v=example4) - Description of the video.
+
+### Go Posts
+1. [Medium Post Title 3](https://medium.com/@username/post3) - Description of the post.
+2. [Habr Post Title 4](https://habr.com/en/post/4) - Description of the post.
+
+### Go Courses
+1. [Course Title 3](https://www.udemy.com/course/example3) - Description of the course.
+2. [Course Title 4](https://www.coursera.org/learn/example4) - Description of the course.
+
+### Go Books
+1. [Book Title 3](https://www.amazon.com/dp/example3) - Description of the book.
+2. [Book Title 4](https://www.amazon.com/dp/example4) - Description of the book.
+
+## Design Patterns
+
+### Design Patterns GitHub Repositories
+1. [Repository Name 5](https://github.com/username/repo5) - Description of the repository.
+2. [Repository Name 6](https://github.com/username/repo6) - Description of the repository.
+
+### Design Patterns YouTube Videos
+1. [Video Title 5](https://www.youtube.com/watch?v=example5) - Description of the video.
+2. [Video Title 6](https://www.youtube.com/watch?v=example6) - Description of the video.
+
+### Design Patterns Posts
+1. [Medium Post Title 5](https://medium.com/@username/post5) - Description of the post.
+2. [Habr Post Title 6](https://habr.com/en/post/6) - Description of the post.
+
+### Design Patterns Courses
+1. [Course Title 5](https://www.udemy.com/course/example5) - Description of the course.
+2. [Course Title 6](https://www.coursera.org/learn/example6) - Description of the course.
+
+### Design Patterns Books
+1. [Book Title 5](https://www.amazon.com/dp/example5) - Description of the book.
+2. [Book Title 6](https://www.amazon.com/dp/example6) - Description of the book.
+
+## Interview Questions
+
+### Interview Questions GitHub Repositories
+1. [Repository Name 7](https://github.com/username/repo7) - Description of the repository.
+2. [Repository Name 8](https://github.com/username/repo8) - Description of the repository.
+
+### Interview Questions YouTube Videos
+1. [Video Title 7](https://www.youtube.com/watch?v=example7) - Description of the video.
+2. [Video Title 8](https://www.youtube.com/watch?v=example8) - Description of the video.
+
+### Interview Questions Posts
+1. [Medium Post Title 7](https://medium.com/@username/post7) - Description of the post.
+2. [Habr Post Title 8](https://habr.com/en/post/8) - Description of the post.
+
+### Interview Questions Courses
+1. [Course Title 7](https://www.udemy.com/course/example7) - Description of the course.
+2. [Course Title 8](https://www.coursera.org/learn/example8) - Description of the course.
+
+### Interview Questions Books
+1. [Book Title 7](https://www.amazon.com/dp/example7) - Description of the book.
+2. [Book Title 8](https://www.amazon.com/dp/example8) - Description of the book.
