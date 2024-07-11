@@ -62,7 +62,7 @@ Focused on:
 
 ### Python Books
 1. [Book Title 1](https://www.amazon.com/dp/example1) - Description of the book.
-2. [Book Title 2](https://www.amazon.com/dp/example2) - Description of the book.
+2. [Book Title 2](https://www.amazon.com/dp/example2) - Fast tool for building data pipelines.
 
 ## Go
 
@@ -71,7 +71,8 @@ Focused on:
 2. [Awesome Backend Engineer](https://github.com/zhashkevych/awesome-backend) - Структурированный список ресурсов для изучения Backend разработки.
 3. [Go Clean Architecture](https://github.com/zhashkevych/go-clean-architecture) - Uncle Bob’s clean architecture principles.
 4. [REST API Для Создания TODO Списков на Go](https://github.com/zhashkevych/todo-app)
-5. [Creatly LMS [Backend Application]](https://github.com/Creatly/creatly-backend)
+5. [Creatly LMS Backend Application](https://github.com/Creatly/creatly-backend)
+5. [file.d](https://github.com/ozontech/file.d)
 
 ### Go YouTube Videos
 1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
