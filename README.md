@@ -74,6 +74,7 @@ Focused on:
 5. [Creatly LMS Backend Application](https://github.com/Creatly/creatly-backend)
 6. [file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
 7. [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+8. [goro](https://github.com/hanagantig/goro) - Generate GO project layout with essential boilerplate code.
 
 ### Go YouTube Videos
 1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
