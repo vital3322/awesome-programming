@@ -67,7 +67,7 @@ Focused on:
 ## Go
 
 ### Go GitHub Repositories
-1. [Repository Name 3](https://github.com/username/repo3) - Description of the repository.
+1. [Go в примерах](https://gobyexample.com.ru/) - это практическое введение в Go с использованием примеров реальных программ.
 2. [Repository Name 4](https://github.com/username/repo4) - Description of the repository.
 
 ### Go YouTube Videos
