@@ -53,7 +53,8 @@ Focused on:
 
 ### Python Posts
 1. [Medium Post Title 1](https://medium.com/@username/post1) - Description of the post.
-2. [Habr Post Title 2](https://habr.com/en/post/2) - Description of the post.
+2. [Асинхронный python без головной боли (часть 1)](https://habr.com/ru/articles/667630/) - Простое объяснение, как работать с coroutines, tasks, feature в asyncio.
+3. [Асинхронный python без головной боли (часть 3)](https://habr.com/ru/articles/774582/) - Простое объяснение, как работает eventloop в asyncio.
 
 ### Python Courses
 1. [Course Title 1](https://www.udemy.com/course/example1) - Description of the course.
@@ -92,7 +93,7 @@ Focused on:
 2. [Repository Name 6](https://github.com/username/repo6) - Description of the repository.
 
 ### Design Patterns YouTube Videos
-1. [Video Title 5](https://www.youtube.com/watch?v=example5) - Description of the video.
+1. [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Simpe explanation patterns from "Head First" book.
 2. [Video Title 6](https://www.youtube.com/watch?v=example6) - Description of the video.
 
 ### Design Patterns Posts
