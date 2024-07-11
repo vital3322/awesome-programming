@@ -4,7 +4,7 @@ A collection of useful programming materials including:
 
 - GitHub repositories
 - YouTube videos
-- Posts
+- Articles
 - Courses
 - Books
 
@@ -19,25 +19,25 @@ Focused on:
 - [Python](#python)
   - [GitHub Repositories](#python-github-repositories)
   - [YouTube Videos](#python-youtube-videos)
-  - [Posts](#python-posts)
+  - [Articles](#python-articles)
   - [Courses](#python-courses)
   - [Books](#python-books)
 - [Go](#go)
   - [GitHub Repositories](#go-github-repositories)
   - [YouTube Videos](#go-youtube-videos)
-  - [Posts](#go-posts)
+  - [Articles](#go-articles)
   - [Courses](#go-courses)
   - [Books](#go-books)
 - [Design Patterns](#design-patterns)
   - [GitHub Repositories](#design-patterns-github-repositories)
   - [YouTube Videos](#design-patterns-youtube-videos)
-  - [Posts](#design-patterns-posts)
+  - [Articles](#design-patterns-articles)
   - [Courses](#design-patterns-courses)
   - [Books](#design-patterns-books)
 - [Interview Questions](#interview-questions)
   - [GitHub Repositories](#interview-questions-github-repositories)
   - [YouTube Videos](#interview-questions-youtube-videos)
-  - [Posts](#interview-questions-posts)
+  - [Articles](#interview-questions-articles)
   - [Courses](#interview-questions-courses)
   - [Books](#interview-questions-books)
 
@@ -51,7 +51,7 @@ Focused on:
 1. [Video Title 1](https://www.youtube.com/watch?v=example1) - Description of the video.
 2. [Video Title 2](https://www.youtube.com/watch?v=example2) - Description of the video.
 
-### Python Posts
+### Python Articles
 1. [Medium Post Title 1](https://medium.com/@username/post1) - Description of the post.
 2. [Асинхронный python без головной боли (часть 1)](https://habr.com/ru/articles/667630/) - Простое объяснение, как работать с coroutines, tasks, feature в asyncio.
 3. [Асинхронный python без головной боли (часть 3)](https://habr.com/ru/articles/774582/) - Простое объяснение, как работает eventloop в asyncio.
@@ -77,7 +77,7 @@ Focused on:
 1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
 2. [Video Title 4](https://www.youtube.com/watch?v=example4) - Description of the video.
 
-### Go Posts
+### Go Articles
 1. [Medium Post Title 3](https://medium.com/@username/post3) - Description of the post.
 2. [Habr Post Title 4](https://habr.com/en/post/4) - Description of the post.
 
@@ -99,7 +99,7 @@ Focused on:
 1. [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Simpe explanation patterns from "Head First" book.
 2. [Video Title 6](https://www.youtube.com/watch?v=example6) - Description of the video.
 
-### Design Patterns Posts
+### Design Patterns Articles
 1. [Medium Post Title 5](https://medium.com/@username/post5) - Description of the post.
 2. [Habr Post Title 6](https://habr.com/en/post/6) - Description of the post.
 
@@ -121,7 +121,7 @@ Focused on:
 1. [Video Title 7](https://www.youtube.com/watch?v=example7) - Description of the video.
 2. [Video Title 8](https://www.youtube.com/watch?v=example8) - Description of the video.
 
-### Interview Questions Posts
+### Interview Questions Articles
 1. [Medium Post Title 7](https://medium.com/@username/post7) - Description of the post.
 2. [Habr Post Title 8](https://habr.com/en/post/8) - Description of the post.
 
