@@ -72,7 +72,8 @@ Focused on:
 3. [Go Clean Architecture](https://github.com/zhashkevych/go-clean-architecture) - Uncle Bob’s clean architecture principles.
 4. [REST API Для Создания TODO Списков на Go](https://github.com/zhashkevych/todo-app)
 5. [Creatly LMS Backend Application](https://github.com/Creatly/creatly-backend)
-5. [file.d](https://github.com/ozontech/file.d)
+6. [file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events.
+7. [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 
 ### Go YouTube Videos
 1. [Video Title 3](https://www.youtube.com/watch?v=example3) - Description of the video.
