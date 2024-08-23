@@ -121,7 +121,7 @@ Focused on:
 2. [Repository Name 8](https://github.com/username/repo8) - Description of the repository.
 
 ### Interview Questions YouTube Videos
-1. [Video Title 7](https://www.youtube.com/watch?v=example7) - Description of the video.
+1. [Эти ОШИБКИ В РЕЗЮМЕ не дадут тебе найти работу](https://www.youtube.com/watch?v=S75omSPqWpU) - Как надо писать резюме, полезные советы.
 2. [Video Title 8](https://www.youtube.com/watch?v=example8) - Description of the video.
 
 ### Interview Questions Articles
