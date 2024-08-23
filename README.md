@@ -77,7 +77,7 @@ Focused on:
 8. [goro](https://github.com/hanagantig/goro) - Generate GO project layout with essential boilerplate code.
 
 ### Go YouTube Videos
-1. [Video Title 3](https://www.youtube.com/watch?v=9qcBzqUuUyM) - Правильный mindset для программиста.
+1. [ВСЯ ПРАВДА ПРО IT. 7+ ЛЕТ ОПЫТА 👨‍💻 ГЛАВНЫЕ ВЫВОДЫ И СОВЕТЫ НАЧИНАЮЩИМ](https://www.youtube.com/watch?v=9qcBzqUuUyM) - Правильный mindset для программиста.
 2. [Video Title 4](https://www.youtube.com/watch?v=example4) - Description of the video.
 
 ### Go Articles
@@ -111,7 +111,7 @@ Focused on:
 2. [Course Title 6](https://www.coursera.org/learn/example6) - Description of the course.
 
 ### Design Patterns Books
-1. [Book Title 5](https://www.amazon.com/dp/example5) - Description of the book.
+1. [Refactoring guru](https://refactoring.guru/) - Refactoring, design Patterns.
 2. [Book Title 6](https://www.amazon.com/dp/example6) - Description of the book.
 
 ## Interview Questions
