@@ -143,7 +143,7 @@ Focused on:
 2. [Book Title 8](https://www.amazon.com/dp/example8) - Description of the book.
 
 ### Interview Questions Live Codding
-1. [Leetcode roadmap](https://neetcode.io/) - A better way to prepare for coding interviews.
+1. [NeetCode roadmap](https://neetcode.io/roadmap) - A better way to prepare for coding interviews.
 
 ## Useful Resources
 
