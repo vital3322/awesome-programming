@@ -127,7 +127,7 @@ Focused on:
 2. [Video Title 8](https://www.youtube.com/watch?v=example8) - Description of the video.
 
 ### Interview Questions Articles
-1. [Medium Post Title 7](https://medium.com/@username/post7) - Description of the post.
+1. [Опросник для go разработчика](https://habr.com/ru/companies/oleg-bunin/articles/521582/) - Опросник Даниила Подольского.
 2. [Habr Post Title 8](https://habr.com/en/post/8) - Description of the post.
 
 ### Interview Questions Courses
