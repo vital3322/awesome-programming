@@ -122,6 +122,7 @@ Focused on:
 1. [leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - Screenshots leetcode editorials and problems.
 2. [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time.
 3. [Вопросы и ответы для собеседования Back-end/Golang](https://github.com/goavengers/go-interview/tree/master) - Коллекция вопросов и ответов.
+4. [Python Questions for Senior] (https://github.com/matacoder/senior) - core python questions.
 
 ### Interview Questions YouTube Videos
 1. [Эти ОШИБКИ В РЕЗЮМЕ не дадут тебе найти работу](https://www.youtube.com/watch?v=S75omSPqWpU) - Как надо писать резюме, полезные советы.
